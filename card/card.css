@@ -1,0 +1,251 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.beauty{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.universal{
+    border:1px solid #d6d5d5 ;
+    width: 350px;
+    height: 600px;
+    margin: 25px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 20px#eeeeee;
+   
+}
+.universal:hover{
+    box-shadow:0px 0px 10px #b3b3b3;
+}
+.img{
+    width: 250px;
+    height: 340px;
+  margin:30px 40px ;
+border-top-right-radius:12px;
+border-top-left-radius:12px;
+
+}
+
+.heading{
+text-align: center;
+font-size: 31px;
+font-weight: 600;
+}
+.c{
+    margin: 10px 4px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+} 
+.price{
+    font-size:23px ;
+    font-weight:600 ;
+    margin: 10px 10px;
+    display: inline-block;
+}
+.rating{
+    color: #ffcd3c;
+    margin-left: 90px;
+    font-size: 20px;
+    display: inline;
+}
+.btn{
+    width: 150px;
+    height:40px ;
+    margin:10px 90px;
+    font-size:22px;
+    font-weight:600 ;
+    border-color:black 3px solid;
+    color: white;
+    background: linear-gradient(#ffcbcb, #e78775);
+border-radius:8px;
+cursor: pointer;
+}
+
+
+
+
+
+
+.content{
+    border:1px solid #d6d5d5 ;
+    width: 350px;
+    height: 600px;
+    margin: 25px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 20px#eeeeee;
+
+}
+.content:hover{
+    box-shadow:0px 0px 10px #b3b3b3;
+}
+.pic{
+    width: 300px;
+    height: 330px;
+    margin-bottom: 50px;
+border-top-right-radius:12px;
+border-top-left-radius:12px;
+
+}
+
+.h{
+text-align: center;
+font-size: 30px;
+font-weight: 600;
+padding: 10px;
+}
+.ccs{
+    margin: 10px 4px;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+} 
+.p{
+    font-size:23px ;
+    font-weight:600 ;
+    margin: 10px 10px;
+    display: inline-block;
+}
+.rating{
+    color: #ffcd3c;
+    margin-left: 90px;
+    font-size: 20px;
+    display: inline;
+}
+.bte{
+    width: 150px;
+    height:40px ;
+    margin:10px 90px;
+    font-size:22px;
+    font-weight:600 ;
+    border: none;
+    color: white;
+    background:linear-gradient(#ffaaa5,hotpink);
+border-radius:8px;
+cursor: pointer;
+}
+
+
+
+
+
+
+.girl{
+    border:1px solid #d6d5d5 ;
+    width: 350px;
+    height: 600px;
+    margin: 25px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 20px#eeeeee;
+}
+.girl:hover{
+    box-shadow:0px 0px 10px #b3b3b3;
+}
+.pi{
+    width: 320px;
+    height: 310px;
+    margin-bottom: 30px;
+border-top-right-radius:12px;
+border-top-left-radius:12px;
+}
+
+.hh{
+text-align: center;
+font-size: 33px;
+font-weight: 600;
+padding-top: 55px;
+}
+.ccc{
+    margin: 10px 4px;
+    font-size: 21px;
+    font-weight: 500;
+    text-align: center;
+} 
+.pr{
+    font-size:23px ;
+    font-weight:600 ;
+    margin: 10px 10px;
+    display: inline-block;
+}
+.rating{
+    color: #ffcd3c;
+    margin-left: 90px;
+    font-size: 20px;
+    display: inline;
+}
+.btes{
+    width: 150px;
+    height:40px ;
+    margin:10px 90px;
+    font-size:22px;
+    font-weight:600 ;
+    border:gray 3px solid;
+    color: black;
+    background:linear-gradient(silver,white);
+border-radius:8px;
+cursor: pointer;
+}
+
+
+
+
+
+.fish{
+    border:1px solid #d6d5d5 ;
+    width: 350px;
+    height: 600px;
+    margin: 25px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 20px#eeeeee;
+}
+.fish:hover{
+    box-shadow:0px 0px 10px #b3b3b3;
+}
+.picture{
+    width: 340px;
+    height:330px ;
+    margin-bottom: 10px;
+border-top-right-radius:12px;
+border-top-left-radius:12px;
+}
+
+.hhh{
+text-align: center;
+font-size: 33px;
+font-weight: 600;
+padding-top: 55px;
+}
+.cccc{
+    margin: 10px 4px;
+    font-size: 21px;
+    font-weight: 500;
+    text-align: center;
+} 
+.prr{
+    font-size:23px ;
+    font-weight:600 ;
+    margin: 10px 10px;
+    display: inline-block;
+}
+.rating{
+    color: #ffcd3c;
+    margin-left: 90px;
+    font-size: 20px;
+    display: inline;
+}
+.btess{
+    width: 150px;
+    height:40px ;
+    margin:10px 90px;
+    font-size:22px;
+    font-weight:600 ;
+    border: none;
+    color:white;
+    background:black;
+border-radius:8px;
+cursor: pointer;
+}
+
